@@ -1,0 +1,6 @@
+*.o
+*.hi
+GMLLexer.hs
+GMLParser.hs
+prof/
+
